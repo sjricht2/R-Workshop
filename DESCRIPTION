@@ -6,7 +6,7 @@ Authors@R: person("Mingyan", "Li", email = "m_li6@uncg.edu",
 Description: R workshop slides.
 License: None.
 LazyData: true
-URL: 
+URL: https://github.com/MingyanLi79/R-Workshop/tree/2021Summer
 Depends:
     R (>= 3.1.0)
 Imports: Using basic R Packages
