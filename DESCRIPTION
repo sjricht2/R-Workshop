@@ -1,0 +1,17 @@
+Package: rjupyterbinder
+Title: R Workshop
+Version: 0.0.1
+Authors@R: person("Mingyan", "Li", email = "m_li6@uncg.edu",
+                  role = c("aut", "cre"))
+Description: R workshop slides.
+License: None.
+LazyData: true
+URL: 
+Depends:
+    R (>= 3.1.0)
+Imports: Using basic R Packages
+Suggests:
+    testthat (>= 0.7),
+    devtools,
+    packrat
+Encoding: UTF-8
